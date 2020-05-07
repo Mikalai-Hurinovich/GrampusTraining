@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14"
+   height="14"
+   viewBox="0 0 14 14"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="whatsapp.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="999"
+     inkscape:window-height="578"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="16.857143"
+     inkscape:cx="7"
+     inkscape:cy="7"
+     inkscape:window-x="822"
+     inkscape:window-y="88"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg16" />
+  <g
+     id="g14">
+    <g
+       id="g12">
+      <g
+         id="g2" />
+      <g
+         id="g6">
+        <path
+           d="M 6.9980469 0 C 3.1380469 0 -5.9211895e-16 3.14 0 7 C 0 8.531 0.49303125 9.9505156 1.3320312 11.103516 L 0.4609375 13.703125 L 3.1503906 12.84375 A 6.94 6.94 0 0 0 7.0039062 14 C 10.862906 14 14 10.86 14 7 C 14 3.14 10.860953 0 7.0019531 0 L 6.9980469 0 z M 4.3613281 3.1992188 C 4.4473281 3.1992188 4.5257031 3.2030313 4.5957031 3.2070312 C 4.8017031 3.2160312 4.9050156 3.2286875 5.0410156 3.5546875 C 5.2090156 3.9606875 5.6209219 4.9643594 5.6699219 5.0683594 C 5.7199219 5.1713594 5.7692188 5.3112656 5.6992188 5.4472656 C 5.6332188 5.5872656 5.5756563 5.6485781 5.4726562 5.7675781 C 5.3686562 5.8875781 5.2709687 5.9774687 5.1679688 6.1054688 C 5.0739687 6.2164687 4.9669375 6.3369688 5.0859375 6.5429688 C 5.2049375 6.7429688 5.6166563 7.414125 6.2226562 7.953125 C 7.0036562 8.649125 7.6372813 8.8708437 7.8632812 8.9648438 C 8.0332813 9.0348438 8.2334219 9.0187187 8.3574219 8.8867188 C 8.5134219 8.7187188 8.7072969 8.4381094 8.9042969 8.1621094 C 9.0442969 7.9641094 9.22025 7.9417187 9.40625 8.0117188 C 9.59525 8.0767187 10.594781 8.5718281 10.800781 8.6738281 C 11.005781 8.7768281 11.141406 8.8251094 11.191406 8.9121094 C 11.241406 8.9991094 11.240313 9.4048125 11.070312 9.8828125 L 11.072266 9.8828125 C 10.903266 10.359813 10.231266 10.756094 9.6972656 10.871094 C 9.3312656 10.949094 8.8550937 11.01075 7.2460938 10.34375 C 5.1890937 9.49175 3.8657188 7.401625 3.7617188 7.265625 C 3.6627187 7.130625 2.9296875 6.1582969 2.9296875 5.1542969 C 2.9296875 4.1492969 3.4404844 3.6611719 3.6464844 3.4511719 C 3.8154844 3.2791719 4.0933281 3.1992187 4.3613281 3.1992188 z "
+           id="path4" />
+      </g>
+      <g
+         id="g10" />
+    </g>
+  </g>
+</svg>
