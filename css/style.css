@@ -611,7 +611,7 @@ img {
     height: 100%;
     height: 66px;
     width: 100%;
-    padding-top: 14px;
+    padding-top: 17px;
     font-size: 11px;
     line-height: 121.9%;
 
@@ -719,7 +719,7 @@ img {
     }
 
     .header__logo {
-        margin-left: 50px;
+        margin-left: 34px;
     }
 
 
@@ -810,7 +810,17 @@ img {
         display: none;
     }
 
+    .left__bottom {
+        display: flex;
+        flex-direction: column;
+    }
 
+    .container {
+        padding-top: 0px;
+        display: flex;
+        flex-direction: column;
+
+    }
 
     .navbar__toggle {
         display: block;
@@ -824,10 +834,31 @@ img {
 
     .policy__link {
 
-        padding: 0 39px;
+        padding: 9px 0px;
+
+        text-align: center;
+    }
+
+    .right__bottom {
+        margin: 0 5px;
     }
 
     .contacts {
         padding: 74px 0 21px;
+
     }
+
+    .footer__bottom {
+        background-color: gray;
+        max-height: 100%;
+        height: 100px;
+        height: 54px;
+        text-align: center;
+        padding: 0 5px;
+    }
+
+    .policy__link:first-child {
+        padding: 10px 0 0;
+    }
+
 }
